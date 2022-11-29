@@ -1,0 +1,8 @@
+# PLUGIN POUBELLE
+
+
+enable: "Le plugin est bien lancer lancer"
+
+disable: "Le plugin est bien désactiver"
+
+message: "Vous avez bien clear un item de votre inventaire"

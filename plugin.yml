@@ -1,0 +1,5 @@
+name: Poubelle
+version: 1.0.0
+main: Yaku\Main
+api: 4.0.0
+author: Yaku
